@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+
+
+#mainContainer {
+
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    width: 64.8vmin;
+    height: 92.88vmin;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 17px;
+    color: white;
+    font-size: 14vmin;
+    font-family: Arial, Helvetica, sans-serif;
+    /* letter-spacing: 1.6px; */
+    overflow: hidden;
+
+}
+
+
+#Lausanne {
+    margin-top: -1.5vmin;
+    padding-left: 7px;
+}
+
+#Music {
+    /* css transfrom leant from w3schools. */
+    -ms-transform: rotate(20deg);
+    transform: rotate(20deg);
+}
+
+#Festival {
+    position: absolute;
+    -ms-transform: rotate(65deg);
+    transform: rotate(65deg);
+    margin-top: 12vmin;
+    margin-left: 23vmin;
+}
+
+#Film {
+    position: absolute;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    margin-top: 20vmin;
+    margin-left: 5vmin;
+    font-size: 15vmin;
+    
+}
+
+#Date {
+    position: absolute;
+    -ms-transform: rotate(25deg);
+    transform: rotate(25deg);
+    margin-top: 40vmin;
+    margin-left: -7vmin;
+}
+
+#Underground {
+    position: absolute;
+    font-size: 16vmin;
+    -ms-transform: rotate(-50deg);
+    transform: rotate(-50deg);
+    margin-top: 35vmin;
+    margin-left: -10vmin;
+}
+
+#Website {
+    -ms-transform: rotate(-25deg);
+    transform: rotate(-25deg);
+    margin-top: 40vmin;
+    margin-left: -2vmin;
+}
+
+#smoldots {
+    font-size: 4vmin;
+    font-family: serif;
+    position:absolute;
+    -ms-transform: rotate(20deg);
+    transform: rotate(20deg);
+    margin-left: 25vmin;
+    margin-top: 33vmin;
+}
+
+
+#smollogo1 {
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.3vmin;
+    -ms-transform: rotate(-60deg);
+    transform: rotate(-60deg);
+    margin-top: 32vmin;
+    margin-left: 59vmin;
+    opacity: 80%;
+}
+
+
+#smollogo2 {
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.2vmin;
+    -ms-transform: rotate(-27deg);
+    transform: rotate(-27deg);
+    margin-top: 30vmin;
+    margin-left: 37vmin;
+    opacity: 40%;
+}
+
+#smollogo3 {
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.7vmin;
+    -ms-transform: rotate(-27deg);
+    transform: rotate(-27deg);
+    margin-top: 64vmin;
+    margin-left: 37vmin;
+    opacity: 90%;
+}
+
+#smollogo4 {
+    font-size: 1vmin;
+    font-family: serif;
+    position:absolute;
+    -ms-transform: rotate(20deg);
+    transform: rotate(20deg);
+    margin-left: 5vmin;
+    margin-top: 53vmin;
+}
+
+#smollogo5 {
+    background-color: white;
+    color: black;
+    font-size: 0.7vmin;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position:absolute;
+    -ms-transform: rotate(-20deg);
+    transform: rotate(-20deg);
+    margin-left: 8vmin;
+    margin-top: 59vmin;
+}
+
+#smollogo6 {
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.7vmin;
+    -ms-transform: rotate(22deg);
+    transform: rotate(22deg);
+    margin-top: 86vmin;
+    margin-left: 50vmin;
+    opacity: 100%;
+}
+
+#smollogo7 {
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.5vmin;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    margin-top: 84vmin;
+    margin-left: 63vmin;
+    opacity: 55%;
+}
+
+#smollogo8 {
+    position: absolute;
+    font-family: serif;
+    font-size: 1vmin;
+    -ms-transform: rotate(-60deg);
+    transform: rotate(-60deg);
+    margin-top: 84vmin;
+    margin-left: 40vmin;
+    opacity: 60%;
+    line-height: 0.8;
+}
+
+#smollogo9 {
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.2vmin;
+    -ms-transform: rotate(-40deg);
+    transform: rotate(-40deg);
+    margin-top: 78vmin;
+    margin-left: 58vmin;
+    opacity: 80%;
+}
+
+#smollogo9_2 {
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.2vmin;
+    -ms-transform: rotate(-40deg);
+    transform: rotate(-40deg);
+    margin-top: 77.1vmin;
+    margin-left: 59.5vmin;
+    opacity: 30%;
+}
+
+#smollogo10 {
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.9vmin;
+    -ms-transform: rotate(-40deg);
+    transform: rotate(-40deg);
+    margin-top: 70vmin;
+    margin-left: 51vmin;
+    opacity: 80%;
+}
+
+#smollogo11 {
+    position: absolute;
+    font-size: 1.4vmin;
+    -ms-transform: rotate(-75deg);
+    transform: rotate(-75deg);
+    margin-top: 68vmin;
+    margin-left: 27vmin;
+    opacity: 69%;
+}
